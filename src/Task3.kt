@@ -1,6 +1,6 @@
 // Задание 3: Преобразование
+// Преобразуйте  var five: Char = '5' в String, Byte, Short, Int, Double, FLoat и Long
 fun main(){
-    // Преобразуйте  var five: Char = '5' в String, Byte, Short, Int, Double, FLoat и Long
     var five: Char = '5'
 
     // P.S. Добавил проверки на типы. P.P.S При простом вызове этой функции переменная не меняет тип, нужно бы засовывать в temp переменную
