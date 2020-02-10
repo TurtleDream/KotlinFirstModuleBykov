@@ -7,7 +7,7 @@ fun main(){
     firstVariable = 22
 
     // 3) Создайте переменную, не указывая её тип и присвойте ей значение из ранее созданной переменной деленную на 2,5
-    var secondVariable = firstVariable / 2.5
+    val secondVariable = firstVariable / 2.5
 
     // 4) Напишите в комментарии какого типа последняя переменная
     // double
