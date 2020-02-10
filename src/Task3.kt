@@ -4,7 +4,6 @@ fun main(){
     var five: Char = '5'
 
     // P.S. Добавил проверки на типы. P.P.S При простом вызове этой функции переменная не меняет тип, нужно бы засовывать в temp переменную
-
     println(five.toString() is String);
     println(five.toByte() is Byte);
     println(five.toShort() is Short);
